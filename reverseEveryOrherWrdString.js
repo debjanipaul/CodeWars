@@ -18,4 +18,4 @@ function reverse(str) {
 
 reverse("Did it work?");
 reverse("I really hope it works this time...");
-reverse("Reverse this string, please!"),
+reverse("Reverse this string, please!");
