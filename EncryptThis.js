@@ -27,7 +27,6 @@ var encryptThis = function(text) {
 
         text[i] = text[i].slice(1)
 
-
         let d = text[i].join('')
 
         let str = a + d
